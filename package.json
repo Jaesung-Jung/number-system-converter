@@ -1,0 +1,11 @@
+{
+  "name": "number_converter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "alfy": "^1.0.0",
+    "lodash": "^4.17.21"
+  }
+}
